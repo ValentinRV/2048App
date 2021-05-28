@@ -6,4 +6,4 @@
 </tr></table>
 
 #
-Cette application est un 2048 basic créer dans le but d'apprendre la programmation sur Android via android studio
+Cette application est un 2048 basic créer dans le but d'apprendre la programmation sur Android via android studio.
